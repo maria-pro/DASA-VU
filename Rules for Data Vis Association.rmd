@@ -1,0 +1,61 @@
+Rules for Data Vis Association:
+-	Leadership team
+o	Role and number in each role
+	Association Leader
+	Membership Coordinator
+	Event Coordinator
+	Fundraising Coordinator
+	Treasurer?
+-	Purpose/Mission
+o	Support of the students (Assisting Maria to help the students)
+	Weekly Consultation
+	Email homework troubleshooting
+	Tutorial assistance during classes / breakout rooms
+o	Promotion of Data Vis and R subjects
+o	Bring together like minded students
+o	Network and collaborate with industry
+
+-	Membership 
+o	Who
+	Undergraduates
+	Post Graduates
+	Current Students or Past Students?
+o	Management of membership
+	Documentation required
+	Personal Information required
+	Where/How to store the details
+o	How to get new members
+	Participation and representation in classes 
+	Email notification / newsletters
+	Competitions
+	Affiliations with other groups
+
+o	Costs
+o	Rules
+	Meeting time/duration – Weekly monthly
+	Quorum for meeting/decisions
+	Voting – all in agreement or majority rules
+
+-	Information and Data Storage
+o	VU Collaborate – accessed by the leadership team
+	Rules
+	Membership
+	Events
+	Content – workshops, tutorials etc
+
+
+Event 1:
+-	Agree on format and topic
+o	Timing
+o	Content
+o	Structure
+
+-	Costs
+-	Abstract
+
+Future Events
+-	Decisions
+-	Planning
+-	Scheduling
+
+
