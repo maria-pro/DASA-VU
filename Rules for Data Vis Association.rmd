@@ -7,6 +7,7 @@ o	Role and number in each role
 	Fundraising Coordinator
 	Treasurer?
 -	Purpose/Mission
+
 o	Support of the students (Assisting Maria to help the students)
 	Weekly Consultation
 	Email homework troubleshooting
@@ -17,13 +18,15 @@ o	Network and collaborate with industry
 
 -	Membership 
 o	Who
-	Undergraduates
-	Post Graduates
-	Current Students or Past Students?
+  	Undergraduates
+  	Post Graduates 
+  	Current Students or Past Students?
+
 o	Management of membership
 	Documentation required
 	Personal Information required
 	Where/How to store the details
+
 o	How to get new members
 	Participation and representation in classes 
 	Email notification / newsletters
@@ -36,7 +39,7 @@ o	Rules
 	Quorum for meeting/decisions
 	Voting – all in agreement or majority rules
 
--	Information and Data Storage
+-	Information and Data Storage - GITHUB respository created 4/7/2020
 o	VU Collaborate – accessed by the leadership team
 	Rules
 	Membership
@@ -58,4 +61,62 @@ Future Events
 -	Planning
 -	Scheduling
 
+4/7/2020 Meeting 1
 
+Bernardos comments
+Organizing events,
+webinars, seminars
+lecturers to speak
+meetups, visibility
+promotion for the job market
+ability to sell yourself for a job
+Fundraising / fundraising from Vic Uni Student Union – application form.
+
+
+Anthony – Student Union
+-	Bernardo to send email and arrange meeting/phone call
+  - procedures for the settingup of the association
+  - documents
+  - Scope of the Association 
+  - target audience - how easy is it to change the scope
+  - possibility for external people (R-based communities/specialists)
+  - free membership and payment for events
+  - potential for charging for events/membership for external attendees 
+  - 4 leaders  - and one member Maria
+  - Data Vis email
+  
+  
+  Name - Everyone to brainstorm sexy name
+  
+  Data studs is not acceptable
+  
+
+Target audience - Undergraduates and post graduates
+- place to advertise the association
+- vu collaborate notification - News Item - once the official establishment complete Maria 
+- student association email account
+- sell the workshops to the industry
+
+CPA – discussion group on Business Analytics collaboration
+Last Monday of every month – present to them. 
+
+
+
+Admin rights – GITHUB
+
+https://github.com/maria-pro/StudentAssociate- DataViz
+https://github.com/maria-pro/VUStudent
+
+Aleisha and Truong - Draft a post/email/flyer accouncement to new students Trimester 2- Introduce Data Visualisation Student Association 
+Bernardo - to arrange VU data Vis email with Anthony
+ 
+ 
+ Aleisha and Truong - Workshop/conference - change title to include Data Visualisation, limit to 1 hour workshop - suggest Journal publication in RMarkdown - Data Vis and more sellable points
+ 
+ examples:
+ https://www.meetup.com/rladies-melbourne/events/264886404/
+ https://www.meetup.com/rladies-melbourne/events/258884903/
+https://www.meetup.com/rladies-melbourne/events/258884903/
+https://github.com/R-LadiesMelbourne
+
+ 
