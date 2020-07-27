@@ -1,0 +1,125 @@
+---
+title: "DASA Plan"
+author: "DASA"
+date: "18/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+18/7/2020
+Summary of the steps taken and actions arising.
+
+Afiliation
+ - A college society is at the college level (VUBS)
+ - a club is an association affiliated under the Student Life and Ledership
+    Contact Stephanie Folau, 
+    Clubs and Societies Officer 
+    Student Life 
+    phone 9919 5967 
+    email stephanie.folau@vu.edu.au
+    
+Documents - VU Clubs Constitution 
+Purpose - 
+a) Support and mentor students who are interested in data analytics
+b) create awareness about new developments in data anlytics
+c) coonect students with industry and network with data analytics professionals
+
+Positions-
+Mentor - Maria Prokofieva [maria.prokofieva@vu.edu.au, 0404 039 413]
+President - Amanda Cole [amanda.cole1@student.vu.edu.au, 0425809104]
+Vice President - Bernardo Fonseca [bernardo.fonsecanieto@live.vu.edu.au, 0404 982 872]
+Treasurer - Truong La [langhiatruong@gmail.com, 0422 466 475]
+Secretary - Alisha (Atousa Ghahramani) [atousa.grahramani@live.vu.edu.au, 0403 008 446]
+
+Logo - Hexagon tile - DASA logo2.png
+
+
+Membership- 
+Need 10 members, 5 members as noted in the executive positions
+
+What formalities do we need for the membership. 
+
+- Tooba Naqvi [tooba.naqvi@live.vu.edu.au]
+- Jafar Hamra??
+
+                                  Maria - students and adverts in VU collaborate announcements
+                                  
+Inaugural General Meeting
+ - 10 members - min 7 as students
+ - complete the democratic vote of executive members
+ - adopt the clubs constitution
+ - sign the relevent forms
+
+Dates for meeting with Stephanie Folau - 
+Tuesday 21 July any time between 10am and 12pm
+Wednesday 22 July any time between 10 am 12pm or 1pm to 5pm
+Thursday 23 July any time between 10am and 12pm or 1pm to 2pm
+Friday 24th July any time between 10am to 12pm
+The following week my schedule is wide open and I can meet anytime between 10 am to 12pm or 1pm to 4pm.
+
+
+
+Activities:
+
+1.Visualisation for the Heritage of Asia-Pacific Architecture and Urbanism Symposium
+  Contact - Luba Schintzer (College of Engineering and Science)
+ 
+  Workshop submission - Due 22/7/2020
+  Workshop: 1 hour session
+  Title: Creating reports and data viz in RMarkdown
+  Abstract:   
+This workshop is an introduction to data visualization by using free opensource environment R and R Libraries, including RMarkdown framework and ggplot2 library. 
+
+With little coding knowledge you can learn how to create interactive documents and data viz to present data analysis and visualise datasets. 
+
+RMarkdown is a high quality interface with the potential of integrating text and R code to produce an informative and productive report. With a basic understanding of how to code in Rstudio, during this workshop you will create a RMarkdown document to present data insights, code and visualization all together to make a comprehensive report and share it with your target audience.
+
+Ggplot2 is a package in Rstudio that allows you to create simple and elegant graphs and charts to visualize your data and tell an engaging story. 
+
+Throughout this workshop, you will learn how to apply RMarkdown and ggplot2 and have hands on practice with Rstudio cloud to create beautiful data report and visualization.
+  
+  
+     
+2. Vic Uni Virtual Open Day 29 August 2020, 11am-6pm
+
+
+
+
+
+**********************************************************************
+Actions - 
+
+Website - use Hugo
+Blogdown package in R
+https://bookdown.org/yihui/blogdown/
+https://rladies.org/event/blogdown-tutorial-build-your-own-website/
+
+
+R ladies workshop for blogdown
+
+Facebook page and twitter account
+
+
+BIO for the facilitators to be completed and submitted to Amanda - 2-3 sentences
+
+Vote - unaminous vote on the hexagon tile in blue colour for the logo. 
+
+
+Amanda set up social media accounts for DASA - Twitter and Facebook
+
+Membership management - mail list, welcome email, 
+https://support.google.com/contacts/answer/30970?hl=en
+
+
+Amanda - email Stephanie re dates for submission and full list of documents required. eg - is the minutes of the Inaugral meeting required for the Council meeting on the 11/8/2020.
+
+Amanda - email Tooba  welcome aboard, spread the word, membership fees are waived until we are affiliated
+
+Maria - talk to other coordinators to send annoucement of DASA to current and past Analytics students
+
+Alisha
+Graduated in Chemistry and Science and Master of Digital Media at VU
+Graduated in Chemistry and Science and post graduate student of Digital Media at Victoria University

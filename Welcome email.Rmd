@@ -1,0 +1,50 @@
+---
+title: "Welcome email"
+author: "DASA"
+date: "11/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+And this is for the club advertisement: 
+
+Are you a student with Vic Uni and would like to learn more techniques for effective data analysis, vibrant and engaging visualisation?  
+
+Join us and learn how to use the advantages of using R/Python, RMarkdown and other free opensource software designed to analyse any dataset and to prepare interactive reports and presentations.
+
+Data Analytics Student Association, DASA-VU, is a Victoria University based student club (going through the process of regristration) which is organised to enhance your education by supporting your knowledge and skills through scheduled workshops and meet-ups about visualisation and design to communicate complex ideas quickly by data visualisation to any audience.
+
+Join our passionate and professional team and benefit from step-by-step tutorial videos and attractive online hands on training workshops in data analytics even if you are a beginner!
+
+email dasa.vicuni@gmail.com
+
+
+
+EMAIL:
+
+Subject line: A warm welcome from DASA
+Body:
+
+Dear <>
+
+Thank you so much for becoming a member of Vic Uni's Data Analytics Student Association (DASA). We are thrilled to have you on board and are looking forward to getting to know you.
+
+To help you get involved, here are a few events we have planned over the next couple of months:
+- Consultation times Weekly Thursday nights 7pm-9pm (email dasa.vicuni@gmail.com to register attendance)
+- 
+- 
+
+You can also catch up with upcoming events via our newsletters that are emailed to you.
+
+In addition, we want to make sure that we can support you wheerever we can, so If we can be of an assistance or if you have any questions about DASA or the fascinating world of Data Analytics, please feel free to contact us at dasa.vicuni@gmail.com
+
+We look forward to seeing you at our next meeting.
+
+Sincerely,
+Amanda Cole
+
+President - DASA

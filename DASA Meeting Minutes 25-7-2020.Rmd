@@ -1,0 +1,87 @@
+---
+title: "Meeting minutes 25-7-2020"
+author: "DASA"
+date: "25/07/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Attendance:
+
+Alisha, Amanda, Bernardo, Maria, Truong
+
+Follow up from previous actions:
+
+1. Workshop proposal submitted 
+2. VU announcement done
+
+Membership:
+1. Facebook page started
+  - what are the rules around content as it is a public page, eg can we share other posts from other Unis, or R people
+  
+2. Google forms which is linked to Google Spreadsheet and a sign in button on FB has been created.
+
+
+New actions:
+
+1. IGM 
+    - confirm date for the IGM - FRIDAY 31 July 2020 at 2pm (amanda to send an email to Stephanie)
+    - notify existing members of the IGM and the need to vote
+    - how to vote by proxy?
+
+2. Membership - 
+    - need to update the form-
+          suggest that we either email members and direct them to link of FB page
+              - alert to fb 
+              - complete the sign in process via the sign up button
+              - complete all fields
+          OR - email the members a direct link to the form
+    
+    - 
+    - 
+  *** should we consider putting together a newsletter
+          - Mission
+            - 3 points
+          - Intro to the Leadership Team (whos who in the zoo)
+          - Notice of the IGM
+          - Importance to complete the membership form prior to the IGM
+ 
+ 
+ ### membership in Sydney - 
+ Saturday classes - 90 students
+ Intro to DASA via FB
+ 
+          
+3. Activities - 
+    - FB post - Welcome to DASA, Share your Week 1 Shock or suprpise...
+    - Online VU Open day ###Maria to chase up about 
+    - Workshop
+    - DASA IN ACTION (or DASA DRILLs) - 4 step program to help you learn by doing
+       Week 1  Workshop/ walkthrough - select a package and or data set, show how to load and install packages, show some simple codes
+                intro to RMarkdown
+       Week 2. Troubleshooting sessions - working with the data, screenshare and solve
+       Week 3, Troubleshooting sessions
+       Week 4. Show and Tell - where peole can share and brag about their analysis and progress
+       
+    - consultation - rotation in the coding consultation Friday 6pm and Monday 2-3pm??
+       
+       
+  OBS - broadcasting/ streamlining software
+  
+  Promotional presentation about:
+   - who is DASA
+   - Introduction to each of the committee members
+   - RMarkdown
+   - https://obsproject.com/
+   - https://cran.r-project.org/web/packages/xaringan/index.html
+  -  https://slides.yihui.org/xaringan/#1 Example of slides - very easy to do
+  - https://stat545.com/ (Jennys website)
+  - https://education.rstudio.com/
+  - https://software-carpentry.org/lessons/ (Maria is a certified instructor)
+
+
+
+
+       

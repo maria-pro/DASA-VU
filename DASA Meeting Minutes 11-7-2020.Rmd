@@ -1,0 +1,69 @@
+---
+title: "Meeting Minutes 11-7-2020"
+author: "DASA"
+date: "11/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Attendees: Truong La, Atousa Ghahramani, Amanda Cole, Bernardo and Maria
+
+Outcome of the last meeting
+
+
+Constitution - DASA
+- Question can we waive the $5 membership fee for students for the first year
+- How can we change the constitution at a later date (eg scope of the group)
+- affiliation with external bodies - external R clubs
+- are the executive positions able to be retained each year
+- what visibility is availble to the association - website, domain, blog? Notices on the Vic Uni website 
+- what services do Student Life provide to assist us in marketing to Vic Uni students - eg banners/tables/fliers for events.
+Online marketing available?
+
+
+
+
+
+Exectutive Committee Positions - review the positions on section 4.3 of the constitution.
+(a)President:
+(b)Vice President:
+(c)Treasurer: 
+(d)Secretary:
+
+5.3 - Request for high res VU and SSAF logos for marketing purposes - Bernardo
+ - request for council meeting dates - Bernardo
+  - next meeting 11th August 2020
+https://www.vu.edu.au/about-vu/administration-governance/university-council-committees
+
+ 
+
+5.4 - Gmail account DASA@Gmail - Amanda
+ dasa.vicuni@gmail.com
+ password: BCO60072020!
+ 
+ Amandas phone number is the recovery phone number.
+ 
+
+5.5 attendance at theStudent Leadership council - rotational basis
+
+3.3 - minimum 10 members - 
+
+
+Membership - draft a welcoming email - Alisha/Amanda - send to Maria for publishing to the new students.
+
+ - Beginners, Intermediate and Advanced
+
+
+- email - Engineers Australia - introduction, request connection and network. political and strategic!!! request for help.
+- see what other student associations are doing - international/USA
+
+- Alisha - Logo for DASAVU - careful of copyright
+
+- Maria - review conference abstract. Due Monday 13/7
+
+
+
