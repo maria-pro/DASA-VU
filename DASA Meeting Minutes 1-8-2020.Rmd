@@ -1,0 +1,122 @@
+---
+title: "DASA Meeting Minutes 1-8-2020"
+author: "DASA"
+date: "01/08/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Attendance:
+
+Alisha, Amanda, Bernardo, Maria, Truong
+
+Follow up from previous actions:
+
+1. Workshop proposal submitted 
+2. VU announcement done
+
+Membership:
+20 Members as at 1/8/2020
+- engagement of the members
+- value to the membership
+- growth of the membership 
+
+
+- visibility to the university and to industry
+- relationship with the members
+
+
+New actions:
+
+1. Leadership- 
+
+- What roles does the group need what committee members do we need?
+ - do we vote or simply request? 
+  - Sydney Representative - Amanda nominate Bihan (not a priority at the moment)
+  - person committed to social media and facebook/twitter accounts (as priority)
+
+ 
+- Membership fees - MOVE that we do not charge anyone membership fees until the AGM in November, then an annual cycle after that
+- Amanda to confirm with Stephanie regarding funds for club at IGM (Monday)
+
+
+
+2. Membership - 
+ 
+2.1  Notice of the successful completions of the IGM and presentation of the Executive committee
+ should we consider putting together a newsletter
+          - Mission
+            - 3 points
+          - Intro to the Leadership Team (whos who in the zoo)
+
+2.2 Consultation with Melbourne and Sydney - confirmation of consultation dates/times/attendance
+
+ ### membership in Sydney - 
+ Saturday classes - 90 students
+ Intro to DASA via FB
+ 
+ 
+Classes for Melbourne: Wednesdays - tute: 12-30pm, 4-30pm, lecture 3pm ***Amanda 12.30 break out asistance 
+Classes for Sydney: Saturdays mornings and afternoons
+
+   - consultation - rotation in the coding consultation Friday 6-8pm and Monday 2-4pm
+ 
+3. Activities - 
+    - FB post - Welcome to DASA, Share your Week 1 Shock or suprise...
+    
+    - Online VU Open day Saturday 29th August, 20-30 min video
+        - c4Mg - assistance with presentation if required
+        - Alisha - request assistance from another marketing student to assist with video
+        - Script
+        - screencastify 
+
+          - 5mins each presentation - Script for next meeting/ Template
+            - DASA - mission
+                   - sense of community, why choose data analytics in the Business School
+                   - coding
+                   - play on the image of Silicon valley - entrepreneurial ideas
+                   - data analytics, fastest growing industry 
+                   - if you want to work for others - Engineerings - Earn for yourself - Data Analytics
+                   
+                   
+            - why should students choose us and not other clubs
+                  Truong- 
+                  Bernardo- investigation around football
+                  Alisha- Marketing background - journey to analytics
+                  Amanda- 
+            
+            
+            - Analytics - 
+            Google analytics promotional video
+            https://www.clearboxseo.com/funny-google-analytics-promotional-video/
+
+    
+    - Workshop for Synopsium - when do we find out about acceptance?? 
+    
+    - DASA IN ACTION (or DASA DRILLs) - 4 step program to help you learn by doing
+       Week 1  Workshop/ walkthrough - select a package and or data set, show how to load and install packages, show some simple codes
+                intro to RMarkdown
+       Week 2. Troubleshooting sessions - working with the data, screenshare and solve
+       Week 3, Troubleshooting sessions
+       Week 4. Show and Tell - where peole can share and brag about their analysis and progress
+       
+    - consultation - rotation in the coding consultation Friday 6pm and Monday 2-3pm??
+       
+       
+4. Social media - Alisha to Champion initially with assistance from the Exec and members as necessary.
+
+- Interviews with people within the industry
+- Advertise things like Makeover Monday or Tidy Tuesday
+- Review data sets
+- communicator
+- Data Analytics is big in Twitter and You Tube
+- Poll or questionnaire - what would you like? coding skills? workshops?
+
+
+5. Alisha to connect with Jenny Richmond from Sydney RLadies
+
+
+
