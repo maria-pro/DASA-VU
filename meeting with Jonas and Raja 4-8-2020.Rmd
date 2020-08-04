@@ -1,0 +1,45 @@
+---
+title: "Meeting with Raja and Jonas 4-8-2020"
+author: "DASA"
+date: "04/08/2020"
+output: html_document
+---
+
+Is it possible set one hour or so in the evenings if DASA available on Tuesdays and Thursdays
+We do online only
+Raja Saturdays 8:30 to 1PM
+Raja will give support if required even after 1PM. But last 2 sessions we are able to do well and finished tuts for combined tuts by 12PM and use 12:00 - 1PM to provide support to discuss assignments and also support to struggling students
+Raja from 8:30 to 10 Lecture
+Break 10 minutes, then start tutes
+
+
+3pm - Saturday for Jonas class BCO6007
+
+
+Raj - 8.30am - 1pm Saturday, 10.20 tutorial times
+
+RAJ - 12-1pm Tutorial Saturday 1 person (Truong)
+Jonas - 3pm start Tutorial Saturday 1 person (Amanda 1st)
+
+Fridays - most common mistakes to be provided to Jonas
+
+Discussions groups - in VU collaborate, random questions in discussion groups, collate the questions into a single document.
+
+Use of breakout rooms
+
+- more confident in breakout rooms
+- students can feel more confident in the small groups
+- DASA can help the late comers catch up with the rest of the class
+
+- 1st assignment is due in week 7 - not released yet. 
+
+Connect the discussion groups for VU Collaborate for Sydney and Melbourne
+
+Use RStudio cloud for all discussions. 
+
+
+
+
+
+
+
