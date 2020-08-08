@@ -1,0 +1,58 @@
+---
+title: "Dasa Meeting Minutes 8-8-2020"
+author: "DASA"
+date: "08/08/2020"
+output: html_document
+---
+
+Attendees - Maria, Amanda, Truong, Alisha, Bernardo,
+
+
+Newsletter - Accouncements - intoduction to DASA Exec
+           - consultations - request for assistance
+           - Creating a website HUGO (tuorial for how to do this)
+           
+Facebook connection / 
+
+ - Appoint a marketing person
+ - bring the facebook group into the facebook page.
+ 
+ 
+
+Use Trello to allocate jobs - use the members
+
+- get them engaged
+
+
+Workshop - Monday 7th September - Friday 11th September
+Offer Monday afternoon or Friday morning
+
+- Email Ebad - is it live or it it video
+- what platform will the presentation take
+- how soon to get a list of participants
+- can we survey the paraticipants, to evaluate their level of experience and their expectations
+  
+  
+  - planning the content for the workshop
+ 
+
+DASA.VU - website
+## Tutorial for how to do this.
+https://bookdown.org/yihui/blogdown/
+https://www.youtube.com/watch?v=rFr1OmS7V9Y
+
+
+- Open day
+
+  
+Affiliation process - complete within the Student life, Truong to set up a profile with the commbank to set up the account.
+
+
+Fixed timetables for consultation:
+
+Monday 2-3pm Bernardo and Alisha
+Wednesday - 12-1 Amanda, Alisha
+Friday 6-8 Amanda, Truong, 
+Saturday 12-1 Truong, Alisha
+Saturday 3-4 Amanda
+
