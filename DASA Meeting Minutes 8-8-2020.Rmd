@@ -8,7 +8,7 @@ output: html_document
 Attendees - Maria, Amanda, Truong, Alisha, Bernardo,
 
 
-Newsletter - Accouncements - intoduction to DASA Exec
+Newsletter - Accouncements - introduction to DASA Exec
            - consultations - request for assistance
            - Creating a website HUGO (tuorial for how to do this)
            

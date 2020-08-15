@@ -1,0 +1,43 @@
+---
+title: "DASA Meeting Minutes 15-8-2020"
+author: "DASA"
+date: "15/08/2020"
+output: html_document
+---
+Attendees - Maria, Amanda, Truong, Alisha, Bernardo,
+
+
+FB Group and page - linked
+
+Amanda - creating website - to publish newsletters and announcements through RMarkdown documents.
+Website creation session planned for Sunday 16/8/2020 3pm
+
+- Symposium workshop - awaiting email from Ebad regarding time and format of workshop
+
+- Student life - Training session for secretary - Alisha to attend, Amanda to attend as well. Wednesday 19th August 3.00-4.00pm
+
+- Consultation attendance form created to capture the hours of consultation/tutorial attendance and emailed to DASA exec
+
+- DATATHON - Bernardo to investigate the event and how it works and see how DASA can engage our members.
+
+- Forms for the bank account - Truong still to prove his identity at the bank, Amanda is the only card holder. Amanda to follow up with Stephanie regarding the account.
+
+
+
+Plans for the workshop
+
+stage 1
+- what is an RMD file
+- how to start the rmd file
+- inserting R chunk
+- installing and loading packages - tidyverse and ggplot2
+- the code
+- running the code
+- knitting the file
+
+research the datasets for the workshop
+
+Open day - no student associations to advertise on the online platform.
+
+
+
