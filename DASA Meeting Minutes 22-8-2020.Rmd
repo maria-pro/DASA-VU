@@ -1,0 +1,96 @@
+---
+title: "DASA Meeting Minutes 22-8-2020"
+author: "DASA"
+date: "22/08/2020"
+output: html_document
+---
+
+#Attendees
+Maria, Amanda, Truong, Alisha, Bernardo,
+
+#Actions from previous meeting
+
+Amanda- Website Created - https://dasa-vicuni.netlify.app/
+New Action - Welcome Newsletter to be drafted
+            - announcement to members
+            
+- Consultation attendance form created to capture the hours of consultation/tutorial attendance and emailed to DASA exec - refer to DASA Consultation
+
+- DATATHON - Bernardo to investigate the event and how it works and see how DASA can engage our members.
+   - event running from 2015 - way to showcase our skills in data analytics
+   - September 26 2020 - 1 hour duration - 11am
+   - Prizes - different categories
+   - online and free
+   - enrol on the platform and sign up
+   - Need to discuss with DASA members if they would like to attend - 
+       - facebook announcement
+       - email announcement
+       ?? Confirm with the event organiser the numbers of the groups and group size if the group events are running
+       ?? Amanda confirm with Steph about formalise the event through Student Life
+       
+       
+ - Amanda to follow up with Stephanie regarding the account and the establishment money.
+
+- Symposium workshop - awaiting email from Ebad regarding time and format of workshop
+
+- Student life - Training session for secretary - Alisha attended, Amanda did not, Alisha to update 
+
+
+
+Plans for the workshop
+
+stage 1
+- what is an RMD file
+- how to start the rmd file
+- inserting R chunk
+- installing and loading packages - tidyverse and ggplot2
+- the code
+- running the code
+- knitting the file
+
+research the datasets for the workshop
+
+#Actions from todays meeting
+
+- propose to change the time of the meeting to 4.30 to allow for full consultation time with Sydney second class - 4.30 session time passed.
+
+- Student leadership awards - we must hold an event - registered with Student Life.
+    Amanda to work with Stephanie to discuss event
+    Monthly meetings with members - ex last Tuesday of the month
+      DASA Members Get together - Friday 5th September - 7-late
+                Show and tell - Data Anlytics 
+                              - Examples - Data visualisation - Amanda
+                                    Maths tricks in R - Bernardo
+                                    Entertaining rather than educational
+                                    Facts - mythbusting - Truong examples
+                                    Video for the last assignment (happiness project) - Alisha
+                                    
+                 Alisha - create the announcement - FB and email 
+                        - same zoom link for the consultation time
+                      
+                                    
+       Friday Consultation move to 5-7pm
+        
+    
+- Note - Potential for training with AWS Cloud Practitioner and AWS Data Anlaytics training to link with machine learning
+
+
+- AGM - September - marketing campaign to advertise our club to attract people for voting
+                  - nomination forms for the exec positions
+                  - end of Sep - stop advertising
+                  - voting by proxy start - 2 Oct close on 7 Oct
+                  - 7 Oct everything closed
+                  - Prepare forms before 9th Oct and submit to Stephanie 
+                  - 31 Oct AGM Open Day
+                  - 1 Nov new committee start working
+                  
+                  
+ - Students struggling to find the consultation times in the news item
+ - Website to announce the consultation times
+ - Email the consultation invites/ zoom links to all the members
+ 
+ 
+ 
+                  
+
+
