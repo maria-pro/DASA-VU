@@ -1,0 +1,50 @@
+---
+title: "DASA meeting Minutes 29-8-2020"
+author: "DASA"
+date: "29/08/2020"
+output: html_document
+---
+
+Code of Conduct
+
+1. Consultations are set to help and support students - raised concerns about authenticity and plagiarism and the amount of individual contribution to the work, individual consultations between students and DASA members are not to be held. 
+2. The expectation for all submissions is that the works is completed on your own, not a collective effort.
+
+3. DASA is for troubleshooting only, suggestion on solutions is not provided.
+
+4. Troubleshooting is defined as covering the following areas:
+    - Technical errors with RStudio assuming that you have done investigation on your own, including suggested forums, Google search
+    - Errors are to be shared within the chat function of Zoom and not screen shared
+    - Clarification on assignment questions meaning and interpretation are not covered and should be sought from the Lecturer
+    - DASA will not advise on assignments, clarification and discussion is to be around lecture, tutorials or self education works only
+    
+There are many different interpretations and operations/functions within R Studio where each solution has its own advantages and disadvantages. RSCRIPT IS SUBJECT TO PLAGIARISM LAWS. When you attend consultation, and do not have a question, the intention is that you learn and not copy and paste other peoples work. Students identified for plagiarism of RScript will receive zero marks.    
+
+
+
+AGM - Monday the 12th October 3pm-4pm
+
+- AGM nominations, forms to be created for the AGM and nomination for the executive position
+- Amanda to redo and resubmit the bank forms
+- 
+
+Meet-up for DASA groups - Friday 7th 
+
+Icebreakers. 
+
+What we can offer  everyone - CRAP Review (Amanda)
+Football visualization - Champions league (Bernardo)
+Truong - interesting videos
+Alisha - video of the assignment
+
+
+
+Troung - put together the workshop for the Conferance - 1 hour presentation for RMarkdown
+
+Bernardo - DATATHON - chase up registration with the organisers.
+
+Amanda/Alisha - meeting Thursday night to plan the milestones for the AGM.
+
+
+
+
