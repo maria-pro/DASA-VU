@@ -1,0 +1,84 @@
+---
+title: "DASA meeting minutes 5-9-2020"
+author: "DASA"
+date: "05/09/2020"
+output: html_document
+---
+
+
+
+Troung - put together the workshop for the Conferance - 1 hour presentation for RMarkdown
+
+Bernardo - DATATHON - chase up registration with the organisers.
+
+Amanda/Alisha - meeting Thursday night to plan the milestones for the AGM.
+
+
+
+
+Workshop/demonstration- goal to be invited back, make a name for yourself
+
+Coloutful, beautiful and pictures
+
+
+ - Promotion for the workshop
+  - email for the participants (list from Maria) 
+  - welcome to the workshop
+   - dot points for what we are going to cover
+  - url to set up RStudio is necessary. 
+  
+ 
+  
+Teaching plan - allocate the roles
+ - Bernardo 2.30 - 4pm
+ - Alisha - 2.30-4.30pm
+ 
+ 
+ Alisha conduct the workshop 
+ Truong has drafted the script file
+
+
+
+Data Visualisation - 
+- show overview of shiny report
+
+- story telling with data, and using graphs and data vis
+
+- dynamic interface between the data and the data viz - reduce the update time and errors between the data and the presentation of the report
+- ease of the decision making using the graphs and visualiations reather than the data 
+- the representation of the data and changes in the data in real time for speed and accuracy of the decision making
+- big data and dashboards
+
+
+
+
+- discussion for the costs for the software
+    prices range from    $21 per month per user to $14,000 a year for business licences - data viz can be big $$
+    
+    but it doesnt have to be.
+    
+    
+            Rstudio free 
+    
+    
+- presentation in powerpoint  - Alisha
+
+    
+
+Using RMD file to start the process 
+ 
+
+
+selling DASA and each member
+
+- entertaining and educational
+
+
+
+Introduce - DASA and each person
+
+
+
+ 
+ 
+ - linkedIn page - exec team

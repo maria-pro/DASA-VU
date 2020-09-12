@@ -1,0 +1,30 @@
+---
+title: "Untitled"
+author: "DASA"
+date: "05/09/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Task1 my presetation
+***
+```{r}
+library(tidyverse)
+dataset<-mpg
+```
+
+
+```{r}
+task3<-dataset%>%
+  select(manufacturer,cty)%>%
+  group_by(manufacturer)%>%
+  summarise(mpg_of_brand=mean(cty),.groups="drop")%>%
+  slice_max(mpg_of_brand, n=10)
+ggplot(task3, aes(x=reorder(manufacturer,-mpg_of_brand),y=mpg_of_brand,fill=manufacturer))+
+  geom_col()
+
+```
+

@@ -1,0 +1,71 @@
+---
+title: "DASA Meeting Minutes 12/9/2020"
+author: "DASA"
+date: "12/09/2020"
+output: html_document
+---
+
+Email - 
+ participants - all
+      some participants asked for materials 
+      include the contact details and linked in photos within the 
+      
+ 
+ Create visibility on twitter - tweet each day, screen shots 
+ - connect with each other and follow other people
+          Hadley Wickham
+          
+ 
+ GitHub - Projects
+ 
+ DataThon - 2 registraion
+ - Team - #1Amanda
+          #
+          #
+   
+ membership base - Roles - how to get them involved
+ - Sydney and Melbourne
+ 
+ 
+  - data sets, practices Tidy Tuesday/Make over Monday
+  
+  - social media (eg Shirrin/Alisha)
+        -   Daily DASA
+            Content for Facebook
+            Content for Twitter
+            
+  - meet ups / Workshops
+        workshops for business analytics
+        tidy verse
+        tidy models, linear regressions and random forest (week 10 or 11 - data sets                                 on Tidy Tuesday - Julia Silge)
+                        https://juliasilge.com/category/tidymodels/
+                        Friday 2nd October 7pm - 10pm
+                         - Bernardo Promotion
+                         - Truong - Tutorial/ workshop
+                                    - step by step
+                                    - describe the functions
+                        - Alisha - request assistance via email to put together the                                               presentation
+                                - slides - powerpoint 
+                              
+        lubridate
+        ggplot2
+        
+  - other ways to contribute......
+  
+ENGAGEMENT - NOT JUST INVOLVEMENT
+  
+
+Business Analytics - Data Wrangling
+Predictive Analytics - Modeling
+Machine Learning - Python
+Financial analytics
+
+Amanda - Talk to Steph
+- bank account
+- request for funds for 2020
+- request for funds for 2021
+- AGM notification, forms are created
+- registration fo the event
+- application fro best new club
+
+      
