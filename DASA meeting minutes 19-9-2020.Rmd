@@ -1,0 +1,63 @@
+---
+title: "DASAMeeting Minutes 19/9/2020"
+author: "DASA"
+date: "19/09/2020"
+output: html_document
+---
+
+DATAthon - date was extended to November 16 11am
+
+
+Group 1
+  Amanda
+  Mujtaba
+  Swati
+
+Group 2
+  Yadavalli
+  Bernardo
+  
+
+AGM
+- email - sent - needs reminders
+
+
+Workshop - Tidymodels - September 25, 7pm - 9pm
+- Truong use own dataset 
+      https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-03-05
+
+  - Truong to run the workshop 
+  - announcement for the workshop 
+  - with the zoom link - registration for the workshop
+  - event on facebook
+  - surveys for members to complete at the workshop
+  - level of confidence with tidymodels
+  - Truong to ask Amerdeep and Mujtaba with the Workshop
+  
+ 
+ Amanda/Alisha and Truong and Amerdeep and Mujtaba meet on Monday at 3pm to discuss and review the Workshop.
+  - Alisha discuss
+  - Amanda discuss with Mujtabe
+ 
+
+FAcebook - Interaction missing
+
+use the # to the facebook
+link to other 
+
+lot of content, short, videos,
+
+
+Marketing committee - Meeting day/time?  
+  Alisha
+  Shirin - shirinnr7@gmail.com
+  Amanda
+  
+   - Workshop registration and promotion September 25 7-9pm
+   - 
+ 
+ Exec - committee 
+      - sub committee roles
+      
+      
+
