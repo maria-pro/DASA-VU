@@ -37,14 +37,14 @@ Email -
   - meet ups / Workshops
         workshops for business analytics
         tidy verse
-        tidy models, linear regressions and random forest (week 10 or 11 - data sets                                 on Tidy Tuesday - Julia Silge)
+        tidy models, linear regressions and random forest (week 10 or 11 - data sets on Tidy Tuesday - Julia Silge)
                         https://juliasilge.com/category/tidymodels/
                         Friday 2nd October 7pm - 10pm
                          - Bernardo Promotion
                          - Truong - Tutorial/ workshop
                                     - step by step
                                     - describe the functions
-                        - Alisha - request assistance via email to put together the                                               presentation
+                        - Alisha - request assistance via email to put together the presentation
                                 - slides - powerpoint 
                               
         lubridate

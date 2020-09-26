@@ -1,0 +1,14 @@
+---
+title: "Minutes 26-9-2020"
+author: "DASA"
+date: "26/09/2020"
+output: html_document
+---
+
+AGM-2020
+DATAThon
+
+- focus on talking to people regarding joining the committee for 2020 and 2021
+- assignment in Github projects.
+
+
