@@ -1,0 +1,96 @@
+---
+title: "DASA Meeting Minutes 33-10-2020"
+author: "DASA"
+date: "03/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Attendance: Amanda, Truong, Alisha, Bernardo, Maria
+
+Agenda:
+
+
+1. DASA Governance - 2020-2010
+- Mentor - Maria
+- Executive team:
+  President
+  Vice President
+  Treasurer
+  Secretary
+
+  General Committee members:
+    Social Media Coordinator
+    Workshop Coordinator
+    
+
+- Meetings
+  DASA Committee
+        monthly - when - 1st/last Saturday of the month
+  
+  Event planning (as required)
+        
+        AGM
+        Workshops
+        Meetups
+        Consultations
+    
+2. AGM
+
+- Chair - Maria
+
+- AGM Agenda to be sent out to members one week prior to AGM
+- Reports (Draft to be discussed at the next Saturday meeting 10th October )
+    - President - report on the past term
+    - Secretary - report on membership and assets
+    - Treasurer - report on club finances
+- Positions -4  exec positions and ?? general committee
+          - Social media coordinator (potential Shirin)
+          - Workshop coordinator (potential Kensie)
+          - Funding coordinator (potential ???)
+
+- Forms to be completed - 
+    Roles and responsibilities form
+    Section 1 of the constitution
+    Club executives information form
+    Bank forms
+    membership list
+  
+- Voting process on the day during the AGM and by proxy - who does the counting and declaration of the awarded roles. Amanda to manage and confirm with Student life re the actual process.   
+
+3. Engagement with Members
+
+- workshops - students/academics
+        - plan for 12 months -
+            topics - 
+- Guest lecturers/presenters
+  - Job skills - 
+  - technical skills
+  - future developments
+
+- fundraising - prizes for events
+
+- Entertain/engage
+- Facebook/Twitter/
+
+- Alsiha to discuss the 12 month plan re social media / twitter/fb/LI
+
+
+- Alisha to create a survey for the membership base and other analytics students for distribution via VU collaborate
+
+- Planning for people who do not know at all - Workshop (academics and phd students)
+      - who wants to do the workshop
+      - what format
+      
+- How do we get to reach out across to the other analytics subjects
+
+
+Amanda to send out the Agenda for the meeting.
+
+
+
+
+
